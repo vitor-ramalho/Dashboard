@@ -1,0 +1,24 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard Nfe",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Dashboard"
+  },
+  "keywords": [
+    "Nodejs",
+    "Web",
+    "NFS"
+  ],
+  "author": "Vitor Ramalho Vilela",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
